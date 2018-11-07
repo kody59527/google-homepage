@@ -4,7 +4,7 @@ div {
 }
 
 img {
-    padding: 13em 0 0.75em;
+    padding: 22% 0 0;
     width: 25%;
     height: 25%;
     display: block;
@@ -20,14 +20,14 @@ input {
 }
 
 #search-form {
-    padding-left: 2.5em;
-    padding-top: 1em;
+    padding-left: 4%;
+    padding-top: 1.5%;
 }
 
 #search-bar {
     display: block;
     width: 50%;
-    height: 2.5em;
+    height: 30px;
     border: 0.5px solid rgba(0, 0, 0, 0.20);
 }
 
