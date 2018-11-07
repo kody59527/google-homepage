@@ -1,33 +1,57 @@
 div {
-height: 90%;
-width: 90%;
-border: 3px solid black;    
+    height: 90%;
+    width: 90%;   
 }
 
 img {
-padding: 28px 0 14px;
-width: 25%;
-height: 25%;
-display: block;
-margin-left: auto;
-margin-right: auto;
-border: 3px solid black;
+    padding: 13em 0 0.75em;
+    width: 25%;
+    height: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 input {
-display: inline;
-width: 20%;
-margin-left: auto;
-margin-right: auto;
-}
-
-#search.bar {
-    display: block;
-    margin-left: 100px;
+    display: inline;
+    margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    border-radius: 0px;
 }
 
+#search-form {
+    padding-left: 2.5em;
+    padding-top: 1em;
+}
+
+#search-bar {
+    display: block;
+    width: 50%;
+    height: 2.5em;
+    border: 0.5px solid rgba(0, 0, 0, 0.20);
+}
+
+#button {
+    padding: 2.5em 0 0 20em;
+}
+
+input[type="button"], span {
+    color: #757575;
+    background-color: #f4f4f4;
+    border: 1px solid #f4f4f4;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 11px;
+    padding-top: 11px;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: Arial, sans-serif;
+}
+
+#lga {
+    height: 18em;
+    width: 100%;
+}
 span {
     position: absolute;
     right: 0;
