@@ -1,3 +1,38 @@
+div {
+height: 90%;
+width: 90%;
+border: 3px solid black;    
+}
+
 img {
 padding: 28px 0 14px;
+width: 25%;
+height: 25%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border: 3px solid black;
+}
+
+input {
+display: inline;
+width: 20%;
+margin-left: auto;
+margin-right: auto;
+}
+
+#search.bar {
+    display: block;
+    margin-left: 100px;
+    margin-right: auto;
+    width: 75%;
+}
+
+span {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    padding: 1rem;
 }
