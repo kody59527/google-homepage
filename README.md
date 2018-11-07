@@ -1,0 +1,1 @@
+This project is to recreate the Google homepage to learn how elements get placed on the page and how they get styled and aligned in HTML/CSS without being taught in a lesson. One of my first HTML/CSS projects!
